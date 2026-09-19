@@ -1,0 +1,1 @@
+var e={1:`#1B3A6B`,2:`#333A7E`,3:`#523A7C`,4:`#6E3A6B`,5:`#15181C`},t=`#1B3A6B`;function n(t){let n=Number(t);return Number.isFinite(n)&&e[n]||`#1B3A6B`}export{n,t};

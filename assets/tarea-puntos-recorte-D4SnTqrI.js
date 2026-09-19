@@ -1,0 +1,1 @@
+var e=``+new URL(`../figuras/tarea-puntos-recorte.png`,import.meta.url).href;export{e as t};
