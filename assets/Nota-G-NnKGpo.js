@@ -1,1 +1,0 @@
-import{B as e,L as t,y as n}from"./modules/shiki-CZi4fo_i.js";import{_t as r,nt as i}from"./index-BT8PIl9r.js";var a={class:`nota`},o=r({__name:`Nota`,setup(r){let{$slidev:o,$nav:s,$clicksContext:c,$clicks:l,$page:u,$renderContext:d,$frontmatter:f}=i();return(r,i)=>(t(),n(`p`,a,[e(r.$slots,`default`,{},void 0,!0)]))}},[[`__scopeId`,`data-v-1526083b`]]);export{o as t};
