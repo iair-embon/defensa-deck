@@ -1,0 +1,8 @@
+import{L as e,T as t,X as n,_ as r,_t as i,g as a,ht as o,v as s}from"./modules/shiki-CZi4fo_i.js";import{_t as c,nt as l,tt as u}from"./index-C6NKyHvl.js";import{t as d}from"./default-jz28Tb0x.js";var f=c({__name:`defensa.md__slidev_40`,setup(c){let{$slidev:f,$nav:p,$clicksContext:m,$clicks:h,$page:g,$renderContext:_,$frontmatter:v}=l();return m.setup(),(c,l)=>(e(),r(d,i(t(o(u)(o(v),39))),{default:n(()=>[l[0]||=a(`div`,{class:`modelos`},[a(`div`,{class:`mod`},[a(`p`,{class:`mod__n`},`Modelo Ciego`),a(`p`,{class:`mod__par`},`3 parámetros`),a(`p`,{class:`mod__que`},`No tiene información sobre la deseabilidad del evento`)]),a(`div`,{class:`mod`},[a(`p`,{class:`mod__n`},`Optimista Conf. Base`),a(`p`,{class:`mod__par`},`4 parámetros`),a(`p`,{class:`mod__que`},`Información sobre la deseabilidad del evento al modelar C1`)]),a(`div`,{class:`mod`},[a(`p`,{class:`mod__n`},`Optimista Combinado`),a(`p`,{class:`mod__par`},`5 parámetros`),a(`p`,{class:`mod__que`},`Información sobre la deseabilidad del evento al modelar C1 y Fuente`)])],-1),s(` <div v-click class="baja">
+  <Caja titulo=" ">
+    El Modelo de Confiabilidad de la Fuente que le daba al likelihood una varianza
+    distinta según viniera de 16 o de 300 encuestados. Ajustó peor que el
+    Modelo Ciego, y las dos varianzas que estimó no se diferenciaron entre sí.
+  </Caja>
+</div>
+ `)]),_:1},16))}},[[`__scopeId`,`data-v-59316b2e`]]);export{f as default};
